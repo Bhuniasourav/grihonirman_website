@@ -1,5 +1,5 @@
 <?php
-$folderName = 'admin_grihonirman';
+$folderName = '/admin_grihonirman';
 $request = $_SERVER['REQUEST_URI'];
 $router = substr_replace($request, '', 0, strlen($folderName));
 
