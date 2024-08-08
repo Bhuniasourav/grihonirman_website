@@ -1,0 +1,6 @@
+[15-Jul-2024 01:02:31 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'id' cannot be null in /home/powertil/public_html/admin/templates/db/activity.php:4
+Stack trace:
+#0 /home/powertil/public_html/admin/templates/db/activity.php(4): mysqli_query()
+#1 /home/powertil/public_html/admin/templates/change_password/save_details.php(58): insertActivity()
+#2 {main}
+  thrown in /home/powertil/public_html/admin/templates/db/activity.php on line 4

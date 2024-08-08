@@ -1,0 +1,10 @@
+.breadcumb-wrapper{
+    background-size: contain !important;
+    position: relative;
+    width: 100%;
+    
+    background: rgba(255, 255, 255, 0.3); /* Semi-transparent background */
+    backdrop-filter: blur(10px); /* Apply the blur effect */
+    -webkit-backdrop-filter: blur(10px); /* For Safari support */
+    border: 1px solid rgba(255, 255, 255, 0.18); /* Optional: Add a border */
+}

@@ -1,0 +1,44 @@
+.header-layout1 .header-top {
+    background-color: #02b95e96;
+    padding: 5px 0;
+    position: relative;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.social-links a{
+    margin: 0px 0px 0px 5px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    padding-top: 7px;
+    text-align: center;
+}
+
+.header-logo.top-section {
+    padding-top: 0px; 
+    padding-bottom: 0px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    background-color: #fff;
+    border-radius: 10px;
+}
+.header-logo img{
+    filter: drop-shadow(0px 0px 10px #44dd44);
+}
+.slick-initialized .slick-slide{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+.leaf-shape-animation{
+    background-repeat: no-repeat !important;
+}
+.faq-area-1 .faq-bg-img-1{
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+}
+
+.faq-area-1 .faq-bg-img-1 {
+    width: 45%;
+}
