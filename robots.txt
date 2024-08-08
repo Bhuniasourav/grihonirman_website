@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin_grihonirman/
+
+
+Allow: sitemap.xml
+
+
+Sitemap: https://grihonirmanrealty.in/sitemap.xml

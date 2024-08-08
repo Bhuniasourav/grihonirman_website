@@ -1,0 +1,1 @@
+<script src="templates/home/controller.js"></script>
