@@ -1,5 +1,5 @@
 <?php
-	$folderName = '';
+	$folderName = '/griho_nirman_website';
     $request = $_SERVER['REQUEST_URI'];
     $router = substr_replace($request, '', 0, strlen($folderName));
 
